@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Prashant
+# 👋 Hi, I’m Prashant Mulge
 
 I’m a **Python Developer** with nearly 3 years of IT experience, specializing in **backend development and database-driven web applications**.  
 Passionate about solving problems, writing clean code, and learning new technologies.  
