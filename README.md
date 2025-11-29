@@ -52,8 +52,8 @@ I love writing clean code, optimizing queries, and exploring modern Python frame
 ### 🗄️ Project 3 — Database & Backend System  
 [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=PrashantMulge&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/PrashantMulge/YOUR_REPO_NAME)
 
-> 📝 **Replace `YOUR_REPO_NAME` with your repository name** to activate these cards. -->
+> 📝 **Replace `YOUR_REPO_NAME` with your repository name** to activate these cards.
 
----
+---  -->
 
 </div>
