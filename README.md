@@ -8,8 +8,6 @@ I have **3 years of IT experience** focused on building
 **scalable backend systems, REST APIs, and database-driven applications**.  
 I love writing clean code, optimizing queries, and exploring modern Python frameworks.
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks  
