@@ -37,9 +37,9 @@ I love writing clean code, optimizing queries, and exploring modern Python frame
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+<!-- ---
 
-<!-- # ⭐ Featured Projects
+# ⭐ Featured Projects
 
 ### 🔥 Project 1 — API-Based Application  
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=PrashantMulge&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/PrashantMulge/YOUR_REPO_NAME)
